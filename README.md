@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Halo%2C%20Saya%20Chinsa&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descSize=18&descAlignY=58" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Selamat+datang+di+profil+saya+%F0%9F%91%8B;Mahasiswa+Teknik+Informatika+%26+Komputer+UNM;Suka+ngoding+web+dengan+Laravel%2C+Vue+%26+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Selamat+datang+di+profil+saya+%F0%9F%91%8B;+Teknik+Informatika+%26+Komputer+UNM;Suka+ngoding+web+dengan+Laravel%2C+Vue+%26+React" alt="Typing SVG" />
 </p>
 
 ---
